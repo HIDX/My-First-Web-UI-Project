@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Case</name>
+   <tag></tag>
+   <elementGuidId>be0bd467-a117-4541-9cc8-1791da059d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'z-navitem-content' and text() = 'Case']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hWFFe0-a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'z-navitem-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-navitem-text</value>
+      <webElementGuid>e65fbeb3-b91c-4d4a-8a31-9eb064a1eec6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='hWFFe0-a']</value>
+      <webElementGuid>fedfc135-0989-474a-af5b-0f8e220012aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='hWFFe0']/a</value>
+      <webElementGuid>2d4bd415-fcbe-4ae0-a8b1-8b28b6434ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanganan'])[1]/following::a[1]</value>
+      <webElementGuid>2f60288c-6d6b-4347-96e8-e9d0fac7762e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerimaan'])[1]/following::a[2]</value>
+      <webElementGuid>c9c419a1-de4c-4937-8f31-04a6545b3630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alih Tugas PIC Penanganan'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e2092f5-5819-48fa-a718-e1b99422fa71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/app/penanganan/case')]</value>
+      <webElementGuid>2090b04b-2218-4851-9902-1222df3cfccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>c4ccbe3c-4432-4ac9-a934-9c0cc870bf07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/app/penanganan/case' and @id = 'hWFFe0-a' and (text() = 'Case' or . = 'Case')]</value>
+      <webElementGuid>ff32c087-13f4-47d9-b8be-61491e10adb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

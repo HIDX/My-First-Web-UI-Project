@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email</name>
+   <tag></tag>
+   <elementGuidId>8db39bfe-6d9d-4f18-a712-1f39e1b96e1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'z-comboitem-text' and text() = 'Email' ]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kTBBlc > span.z-comboitem-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'z-comboitem-text' and (text() = 'Email' or . = 'Email')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b70a06f-561d-48e2-aae0-ab554286f62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-comboitem-text</value>
+      <webElementGuid>603f7904-2780-4ee5-b5e6-f108c2f9bbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>3921fdf0-debf-431b-a78a-f9b50931f10b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kTBBlc&quot;)/span[@class=&quot;z-comboitem-text&quot;]</value>
+      <webElementGuid>82f7c402-0d36-4fb4-b23b-699628845e79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='kTBBlc']/span[2]</value>
+      <webElementGuid>186ad99d-5afd-45c3-94dd-e5380722c227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call'])[1]/following::span[2]</value>
+      <webElementGuid>2efda0b9-70ef-4711-b0c0-65a581e45ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fiona/Live Agent'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d916fe5-39b9-45ad-9b2b-9ca4a1f7b5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/span[2]</value>
+      <webElementGuid>55e2341d-b3b9-4d42-b45e-f9c4354749a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>09ab7d8b-4697-4c73-a0c1-2ffbbcb4f15e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

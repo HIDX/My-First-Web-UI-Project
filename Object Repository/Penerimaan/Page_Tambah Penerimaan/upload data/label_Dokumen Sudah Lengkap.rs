@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Dokumen Sudah Lengkap</name>
+   <tag></tag>
+   <elementGuidId>55834cb2-17c7-4b91-b8a3-43078ef42899</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[text() = 'Dokumen Sudah Lengkap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#zFfMz71-cnt</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'zFfMz71-cnt' and (text() = 'Dokumen Sudah Lengkap' or . = 'Dokumen Sudah Lengkap')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8ac2f5d7-dbfc-4f22-9838-d36111e94f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>zFfMz71-real</value>
+      <webElementGuid>83665647-693c-4509-ae58-dd108d8ed8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zFfMz71-cnt</value>
+      <webElementGuid>35bf4cde-9cec-489c-b8ea-fbc5c7b3a87a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-checkbox-content</value>
+      <webElementGuid>ca884ad6-4f4c-40a0-b234-c49fddd38289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokumen Sudah Lengkap</value>
+      <webElementGuid>3c6b35f7-cc5c-43d1-9d56-b234b08dd326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zFfMz71-cnt&quot;)</value>
+      <webElementGuid>3ed58879-abfc-46b1-9d5e-439743582697</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='zFfMz71-cnt']</value>
+      <webElementGuid>af51d238-dc3b-4304-a7d2-e886be4a077a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='zFfMz71']/label[2]</value>
+      <webElementGuid>3f417d6d-5b77-4802-89a7-a376c7c44574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada tipe dokumen yang belum dipilih'])[1]/following::label[2]</value>
+      <webElementGuid>c1f932a3-a88a-445e-8365-34839d145906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak boleh ada tipe dokumen yang sama'])[1]/following::label[2]</value>
+      <webElementGuid>6c1f6a21-5ba5-486a-9c23-4ce8d480eeca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi Dokumen'])[5]/preceding::label[1]</value>
+      <webElementGuid>fc50234c-de12-4c7e-b138-6d05ffe6790f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi dokumen minimal 8 karakter ('])[1]/preceding::label[1]</value>
+      <webElementGuid>84b993be-a4a2-4fa0-a206-0e33cbc22b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dokumen Sudah Lengkap']/parent::*</value>
+      <webElementGuid>cf01f493-233d-423a-a810-22cadf815414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/span/label[2]</value>
+      <webElementGuid>20d199ab-5631-4009-9093-1f95670658aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'zFfMz71-cnt' and (text() = 'Dokumen Sudah Lengkap' or . = 'Dokumen Sudah Lengkap')]</value>
+      <webElementGuid>88466c07-7006-4635-a44b-37df180a3380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

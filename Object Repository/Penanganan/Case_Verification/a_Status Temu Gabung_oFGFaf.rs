@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Status Temu Gabung_oFGFaf</name>
+   <tag></tag>
+   <elementGuidId>d0624507-bc7b-4651-bcf3-af05e843390c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'oFGFaf' and @class = 'btn-new-action btn-update z-a']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class = 'btn-new-action btn-update z-a']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#oFGFaf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3f0e8ff-7c7d-44a6-a0ca-218724318eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>oFGFaf</value>
+      <webElementGuid>da227fd4-66c3-4afa-87c7-93fcbec2acb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-new-action btn-update z-a</value>
+      <webElementGuid>a915e36c-43a0-4433-891a-745223db1ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/app/penanganan/case-verification/view/202408040253</value>
+      <webElementGuid>b7592a58-78f5-47d6-abc8-513698a685da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oFGFaf&quot;)</value>
+      <webElementGuid>3cc077e2-817d-420a-bc66-488d7e792c3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='oFGFaf']</value>
+      <webElementGuid>35b7bba8-9edb-49cd-8a37-02ae97f136ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oFGF9f-cave']/a</value>
+      <webElementGuid>e2a1242e-f8b2-4cd2-be7b-5bf2178091fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/app/penanganan/case-verification/view/202408040253')]</value>
+      <webElementGuid>97894180-623d-4a3a-ae9c-bc49509c7356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a</value>
+      <webElementGuid>df306ed6-baea-480a-9fa2-e317b387e8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'oFGFaf' and @href = '/app/penanganan/case-verification/view/202408040253']</value>
+      <webElementGuid>3d98c9c6-100e-4af4-a49b-e35bb681ab0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

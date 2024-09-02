@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Daftar Tindak Lanjut</name>
+   <tag></tag>
+   <elementGuidId>a1dbebe9-f510-4268-8243-833a6f359e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'kA4Hh0-text' and (text() = 'Daftar Tindak Lanjut' or . = 'Daftar Tindak Lanjut')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text() = 'Daftar Tindak Lanjut']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kA4Hh0-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>35507803-da9c-4cf1-a4ea-47fcd8ad2d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kA4Hh0-text</value>
+      <webElementGuid>eb87b734-2700-4805-af81-ca9cdfecef4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-navitem-text</value>
+      <webElementGuid>6ebc7418-b443-400e-b05e-8a990722f7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Tindak Lanjut</value>
+      <webElementGuid>a58c82ba-771f-4f32-a832-51e96a1b1509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kA4Hh0-text&quot;)</value>
+      <webElementGuid>72ca27ac-1d49-44e4-9c9f-ba2da7817337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='kA4Hh0-text']</value>
+      <webElementGuid>44f2ca3b-d0b8-45b1-a8fc-2a01866907fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='kA4Hh0-a']/span</value>
+      <webElementGuid>bb0b7cc7-0026-4318-82f9-b05cfe13fff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Verification'])[2]/following::span[1]</value>
+      <webElementGuid>3215bb31-8ac7-4724-805a-e0ffe9f10f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alih Tugas PIC Penanganan'])[1]/following::span[2]</value>
+      <webElementGuid>d0f26744-f48d-4012-a895-5b14c20ae69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelesaian'])[1]/preceding::span[1]</value>
+      <webElementGuid>14549507-1b78-44d3-9b83-e476be65e224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Tanggapan'])[1]/preceding::span[2]</value>
+      <webElementGuid>11ea5f50-5e43-4bb0-aebd-489ee10f0c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Tindak Lanjut']/parent::*</value>
+      <webElementGuid>3a2e9a40-a494-423f-ae70-d70ef7b60fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[4]/a/span</value>
+      <webElementGuid>5e47bacd-24b5-44ac-8b5f-117f9407e671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'kA4Hh0-text' and (text() = 'Daftar Tindak Lanjut' or . = 'Daftar Tindak Lanjut')]</value>
+      <webElementGuid>cc49ded4-017e-4823-907a-c1c48d323ee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

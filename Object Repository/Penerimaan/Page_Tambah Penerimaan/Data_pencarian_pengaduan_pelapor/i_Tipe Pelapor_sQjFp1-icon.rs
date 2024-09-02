@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tipe Pelapor_sQjFp1-icon</name>
+   <tag></tag>
+   <elementGuidId>e7e9b037-f83d-474d-837b-57ee4b3ceed0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class='z-combobox-icon z-icon-caret-down']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sQjFp1-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'sQjFp1-icon' and @class = 'z-combobox-icon z-icon-caret-down']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e11b9f1b-8117-4c59-89bc-ded808e62ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sQjFp1-icon</value>
+      <webElementGuid>01dfe4c5-4365-4bac-b3e4-38d9473f7a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-combobox-icon z-icon-caret-down</value>
+      <webElementGuid>e3c1a00b-3b8f-4190-83ea-79c7e99a18b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sQjFp1-icon&quot;)</value>
+      <webElementGuid>88261131-bda8-4fc2-9467-fd12b111b649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@id='sQjFp1-icon']</value>
+      <webElementGuid>8bd6b202-5b2b-4416-825e-2c8cff85fb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='sQjFp1-btn']/i</value>
+      <webElementGuid>c8310a71-0036-4975-9aa2-cc406d3fdc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/i</value>
+      <webElementGuid>ad7e1ce3-86d8-437b-8aff-26f8c2fdda9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@id = 'sQjFp1-icon']</value>
+      <webElementGuid>f07c0e14-ec30-498a-8034-c998c749371a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

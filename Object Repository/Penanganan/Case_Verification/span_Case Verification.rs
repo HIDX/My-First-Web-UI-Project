@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Case Verification</name>
+   <tag></tag>
+   <elementGuidId>f78d8ba8-cb38-46f6-938e-973ac7c1f69b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#aEwPg0-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text() = 'Case Verification']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'aEwPg0-text' and (text() = 'Case Verification' or . = 'Case Verification')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a9e3d25-c7d8-4067-9b2d-59baa9342d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>aEwPg0-text</value>
+      <webElementGuid>40296d42-3d15-4ffc-b244-f95b062768c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-navitem-text</value>
+      <webElementGuid>05e52c26-0e68-42ab-8442-f0902565e3c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Verification</value>
+      <webElementGuid>227ee1e3-6fea-4883-90c3-ecbc5113068f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aEwPg0-text&quot;)</value>
+      <webElementGuid>305ea6a1-d402-4492-b0af-0db756601b9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='aEwPg0-text']</value>
+      <webElementGuid>7fe3db9c-3001-4f66-98d9-dcc049050f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='aEwPg0-a']/span</value>
+      <webElementGuid>1b36f0ba-e3c6-48ac-a51c-fc8c79843bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alih Tugas PIC Penanganan'])[1]/following::span[1]</value>
+      <webElementGuid>5e94081d-358b-4ca7-983a-90ff6753d845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case'])[1]/following::span[2]</value>
+      <webElementGuid>2717f8fa-6b15-42b6-a3a0-728dfa3a728f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Tindak Lanjut'])[1]/preceding::span[1]</value>
+      <webElementGuid>52463960-4822-46b0-bda6-5fd5533d075d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyelesaian'])[1]/preceding::span[2]</value>
+      <webElementGuid>7a1b5896-b284-4784-9888-3b8e3e538614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Verification']/parent::*</value>
+      <webElementGuid>c3ea8c82-7c26-4144-95fa-c9df389c385c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/a/span</value>
+      <webElementGuid>831a9a88-315a-4d9d-aa89-911a6501226b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'aEwPg0-text' and (text() = 'Case Verification' or . = 'Case Verification')]</value>
+      <webElementGuid>9f178b5b-3c5d-4c8d-b1b7-4151e6e828de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

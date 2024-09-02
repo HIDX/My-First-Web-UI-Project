@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pilih Status Detail Kontak_uQdEi00-icon</name>
+   <tag></tag>
+   <elementGuidId>8a1a65e1-4ad5-4178-bef0-2ed5fe3ffee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#uQdEi00-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class = 'z-searchbox-icon z-icon-caret-down']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'uQdEi00-icon' and @class = 'z-searchbox-icon z-icon-caret-down']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ad426e1b-6ff2-477e-a386-450b0fd10830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uQdEi00-icon</value>
+      <webElementGuid>34c2b186-c28a-4e38-90c8-fe94f9bd0480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-searchbox-icon z-icon-caret-down</value>
+      <webElementGuid>29b1ed26-e2e2-49cd-98b0-39c8ea7d023f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uQdEi00-icon&quot;)</value>
+      <webElementGuid>4ec605bd-d6ef-40e7-89e8-b20156548bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@id='uQdEi00-icon']</value>
+      <webElementGuid>1384cc3b-2916-4b50-bea7-cb98c55ac38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uQdEi00']/i[2]</value>
+      <webElementGuid>a13b8eef-4442-405e-9235-32a3ab7b8164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/i[2]</value>
+      <webElementGuid>33e4840c-a50b-46d0-8fe6-52eddcc53c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@id = 'uQdEi00-icon']</value>
+      <webElementGuid>e96d5153-07e7-4d92-8839-515e80139b2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

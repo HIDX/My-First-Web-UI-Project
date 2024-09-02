@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pilih Status Kontak_g1oT_00-icon</name>
+   <tag></tag>
+   <elementGuidId>be836c50-63f0-4b54-9fa4-40d08be8db41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'g1oT_00-icon' and @class = 'z-searchbox-icon z-icon-caret-down']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class = 'z-searchbox-icon z-icon-caret-down']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#g1oT_00-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1973f262-ac60-414c-b926-ae5cf22f36a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>g1oT_00-icon</value>
+      <webElementGuid>7ffb9c64-d13b-4777-85c1-8eb934496d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-searchbox-icon z-icon-caret-down</value>
+      <webElementGuid>7acf4b4f-aa50-4488-9bce-5435e425494a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;g1oT_00-icon&quot;)</value>
+      <webElementGuid>c9793bdf-0b4d-424a-bbf7-f94dbda3f0df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@id='g1oT_00-icon']</value>
+      <webElementGuid>58f7e322-fe63-4837-b6ed-c1e4eb1db826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='g1oT_00']/i[2]</value>
+      <webElementGuid>8b616980-3bea-424f-bfe3-d35e88889642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i[2]</value>
+      <webElementGuid>c2bf9d82-b61a-4236-aacd-74418a7e0db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@id = 'g1oT_00-icon']</value>
+      <webElementGuid>01626dc0-ee30-4add-b2ec-098126481225</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_No Kontrak_bJEPlk</name>
+   <tag></tag>
+   <elementGuidId>5314ca85-0f2b-4a38-b530-4c61e34af256</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bJEPlk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class = 'link-view z-a']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'link-view z-a' and @href = '/app/penerimaan/view/202408040204']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c698640c-fa32-43fd-9f3c-d208b035ecff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bJEPlk</value>
+      <webElementGuid>f660f8ee-a668-4a53-a301-0099f64e1d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-view z-a</value>
+      <webElementGuid>c81af2bb-8527-4c68-9793-ee66d104351c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/app/penerimaan/view/202408040204</value>
+      <webElementGuid>bcee7c37-10ea-4653-883e-bee732fbdc80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bJEPlk&quot;)</value>
+      <webElementGuid>929e357b-13fc-4d59-b9a7-cbdd258a2026</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='bJEPlk']</value>
+      <webElementGuid>a18ba703-7ddb-460a-96e4-01fd6285aa56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bJEPkk-cave']/a</value>
+      <webElementGuid>e7c53a3a-31a7-4051-b3b8-4a9d03271dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/app/penerimaan/view/202408040204')]</value>
+      <webElementGuid>d81075d8-496a-40ce-9d8b-d0ba91d16940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a</value>
+      <webElementGuid>d6506e39-ca52-45d5-967a-4e2780052186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'bJEPlk' and @href = '/app/penerimaan/view/202408040204']</value>
+      <webElementGuid>988157fb-5fbd-41e1-8469-1c83d6f772c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

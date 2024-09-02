@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Status Kontak</name>
+   <tag></tag>
+   <elementGuidId>f98e2cc4-face-4a0a-ae3a-40ca21bc2c0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 's9NY900-placeholder' and @class = 'z-searchbox-placeholder' and (text() = 'Pilih Status Kontak' or . = 'Pilih Status Kontak')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class = 'z-searchbox-placeholder' and text() = 'Pilih Status Kontak']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#s9NY900-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06e6f214-63a7-43dd-8593-00c41901dde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>s9NY900-placeholder</value>
+      <webElementGuid>012d8689-f5c7-4b6e-a1bb-bcd2ae111ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-searchbox-placeholder</value>
+      <webElementGuid>b1e27f26-e90c-443f-8a7a-df0536614d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Status Kontak</value>
+      <webElementGuid>ad414574-ce1f-4cd4-b0a9-b348a021f64c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s9NY900-placeholder&quot;)</value>
+      <webElementGuid>65ab5db7-6a67-4038-8d7d-115f6ad10fed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='s9NY900-placeholder']</value>
+      <webElementGuid>0eff9c30-dfc5-4df0-82d6-08c708a9a1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s9NY900']/div[2]</value>
+      <webElementGuid>dd9a6876-f5bd-4f33-82fa-d1264f59f770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Kontak*'])[1]/following::div[3]</value>
+      <webElementGuid>5645b265-abe6-4a34-9723-50620f3e711c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Tindak Lanjut'])[1]/following::div[10]</value>
+      <webElementGuid>fd864f76-60c0-46e3-adde-e1e4b87e1de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil Kontak'])[1]/preceding::div[1]</value>
+      <webElementGuid>fee4941c-583d-47cb-b102-4427c3dd317b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Berhasil Kontak'])[1]/preceding::div[1]</value>
+      <webElementGuid>e72dcc9f-c5a3-40df-89fd-e75ec4ebfb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Status Kontak']/parent::*</value>
+      <webElementGuid>1827813c-f540-411d-af5b-49310eb9ea5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div[2]</value>
+      <webElementGuid>b1e1a96f-ed51-4056-ac38-06c67fb3665b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 's9NY900-placeholder' and (text() = 'Pilih Status Kontak' or . = 'Pilih Status Kontak')]</value>
+      <webElementGuid>be6d1937-0e6e-4218-a5ff-28f0f5ad47ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
