@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Penanganan/Page_Login Penaganan/bu
 
 WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/span_Daftar Tindak Lanjut'))
 
-WebUI.setText(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/input_Status BAP_xZWSe3'), '202408040302')
+WebUI.setText(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/input_Status BAP_xZWSe3'), '20240804030211')
 
 WebUI.waitForElementNotClickable(findTestObject('Penanganan/Case_Verification/a_Status Temu Gabung_oFGFaf'), 5)
 
