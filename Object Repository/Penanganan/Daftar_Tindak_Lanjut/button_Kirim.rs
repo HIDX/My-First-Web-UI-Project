@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='g1oTj20']</value>
+         <value>//button[@type = 'button' and text() = 'Kirim']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'g1oTj20' and (text() = 'Kirim' or . = 'Kirim')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>55d3b36b-b2a8-4140-8d41-392958f78710</webElementGuid>
+      <webElementGuid>68ae26b1-5e46-4e9f-82be-7458d132f10d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fc6a145e-7004-4744-84b6-3eef67c74678</webElementGuid>
+      <webElementGuid>0c0eacec-cdeb-4c4a-9c03-ed359d715722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>id</name>
       <type>Main</type>
       <value>g1oTj20</value>
-      <webElementGuid>1b9a693b-eb68-4e73-aba4-0f408a070ffd</webElementGuid>
+      <webElementGuid>1df8f32f-69d4-4716-9f02-3287cabb56f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary full-width z-button</value>
-      <webElementGuid>e5719e79-120b-420b-bb90-08a7591b200b</webElementGuid>
+      <webElementGuid>382e5a08-fa36-4756-ba19-cd13fda8968a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +59,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kirim</value>
-      <webElementGuid>d54d1316-ae3d-4a70-a883-96d5ddcca2cf</webElementGuid>
+      <webElementGuid>7587bcb3-aa61-4c70-a54e-f9b398d41c94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;g1oTj20&quot;)</value>
-      <webElementGuid>b0c891a9-b549-4c5b-a3e5-c50e5b109014</webElementGuid>
+      <webElementGuid>2616abcd-0d89-429f-80e2-6485ea2c4d96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='g1oTj20']</value>
-      <webElementGuid>bd8edfab-78ce-4923-a836-70d09e17e25c</webElementGuid>
+      <webElementGuid>530e1ea3-bb47-4d29-82f7-0a127258ae41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='g1oTi20']/button</value>
-      <webElementGuid>6384123d-409f-4a1a-838d-de786d010202</webElementGuid>
+      <webElementGuid>2c153121-8623-4032-bbbe-3a3b5533c058</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kosongkan Isi Formulir'])[1]/following::button[1]</value>
-      <webElementGuid>7581d518-d1b6-4a83-8270-a293c2fc1fb8</webElementGuid>
+      <webElementGuid>e7295f6e-7528-4e16-b381-1a2eb75e09da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah'])[1]/following::button[2]</value>
-      <webElementGuid>620e1b03-0859-42da-8407-7941def8082e</webElementGuid>
+      <webElementGuid>133a3657-5a7b-458c-b80c-9dfc65528836</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin menyimpan data tindak lanjut sebagai berikut?'])[1]/preceding::button[1]</value>
-      <webElementGuid>97cb62f0-8792-41c0-9baf-ddb843110cde</webElementGuid>
+      <webElementGuid>7ec0c5ba-c954-422b-a5cc-efede74ea318</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Kontak'])[1]/preceding::button[1]</value>
-      <webElementGuid>27e67798-17c5-451f-8304-f17d60b21b18</webElementGuid>
+      <webElementGuid>30d151a1-235b-481f-a3b4-258b41b18227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kirim']/parent::*</value>
-      <webElementGuid>c66b4c30-6fe6-4d62-a22b-f5990912f3fb</webElementGuid>
+      <webElementGuid>68715d08-a01d-4fb5-bd89-9e13404e37fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/button</value>
-      <webElementGuid>952435ef-d2ab-49a7-b9ef-96a7e2d38eea</webElementGuid>
+      <webElementGuid>69ba1791-9a64-44f0-a90d-68d2f8a1d2c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'g1oTj20' and (text() = 'Kirim' or . = 'Kirim')]</value>
-      <webElementGuid>21425f22-6985-4ea5-b1d6-39ad7682bd02</webElementGuid>
+      <webElementGuid>a08ba53a-c168-4949-9f88-1c1fe33c3328</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='g1oT410-cnt']</value>
+         <value>//label[@class = 'z-radio-content and text() = 'Kantor Cabang']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'g1oT410-cnt' and @class = 'z-radio-content' and (text() = 'Kantor Cabang' or . = 'Kantor Cabang')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>653ccce3-2426-4072-8314-59acbe823df1</webElementGuid>
+      <webElementGuid>d835c172-6630-4de4-8a91-f3712fd204fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>for</name>
       <type>Main</type>
       <value>g1oT410-real</value>
-      <webElementGuid>1baf1885-0705-419e-b065-e53541d587ab</webElementGuid>
+      <webElementGuid>b4fee501-01ec-4929-8935-5a974d84fa5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +43,15 @@
       <name>id</name>
       <type>Main</type>
       <value>g1oT410-cnt</value>
-      <webElementGuid>92e6ab60-603d-45c0-a874-5f9cba50cb5f</webElementGuid>
+      <webElementGuid>a3783a80-5330-4570-9b18-53bdcfbddb77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>z-radio-content</value>
-      <webElementGuid>4459c623-4bcb-40ef-a1ee-e21fc8815326</webElementGuid>
+      <webElementGuid>dbf5a437-30a9-4369-a7ee-beb3214609e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +59,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kantor Cabang</value>
-      <webElementGuid>dd82699d-7a70-4698-b010-b5d665366b79</webElementGuid>
+      <webElementGuid>0ebbe0d9-b4e5-4c09-a7da-7824fa819820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;g1oT410-cnt&quot;)</value>
-      <webElementGuid>a59c4b39-11e2-47d6-b448-9e1c751c753a</webElementGuid>
+      <webElementGuid>211b03b0-975b-47d2-9f84-bacc0ddb295a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='g1oT410-cnt']</value>
-      <webElementGuid>87e8c6ab-a5e5-4f48-8d83-1ea195d4bdd9</webElementGuid>
+      <webElementGuid>0e4a0809-6244-44cd-b7d5-27adec009f5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='g1oT410']/label</value>
-      <webElementGuid>fa8a7533-d8f3-4002-9601-5b11aa383dc8</webElementGuid>
+      <webElementGuid>80eb6643-8024-4afc-90ad-59997de617ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Pertemuan*'])[1]/following::label[1]</value>
-      <webElementGuid>f9f242b6-db00-4143-a415-21e760aad9da</webElementGuid>
+      <webElementGuid>003c08e4-b6b5-45ef-8f04-07d5c99978fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::label[1]</value>
-      <webElementGuid>97b19ff7-0e2d-4556-907e-8ea702ac04a1</webElementGuid>
+      <webElementGuid>2d944ac2-0803-488c-bc73-ac652a34d949</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rumah Konsumen'])[1]/preceding::label[1]</value>
-      <webElementGuid>81253a44-0778-4564-b968-001d9ed401fa</webElementGuid>
+      <webElementGuid>d9b12eff-6df6-4cf1-91cb-87c80cda8cca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/preceding::label[2]</value>
-      <webElementGuid>ec540f15-2bf7-4712-be68-30cf2a92b2f6</webElementGuid>
+      <webElementGuid>18b78709-8e34-4331-a0f8-3d6783c31572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kantor Cabang']/parent::*</value>
-      <webElementGuid>c5fd92d0-f40b-4054-8f23-39007de42a1a</webElementGuid>
+      <webElementGuid>bb53190f-b115-472b-9e4a-ad6802d0b166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/div/span/label</value>
-      <webElementGuid>1e10ee4c-fddd-41d4-9991-ea62a1353203</webElementGuid>
+      <webElementGuid>fa6c25ca-368c-4238-8add-3532268ddb2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'g1oT410-cnt' and (text() = 'Kantor Cabang' or . = 'Kantor Cabang')]</value>
-      <webElementGuid>76a24230-5b7e-4c47-87f4-a26d032d65fc</webElementGuid>
+      <webElementGuid>3863823e-5e28-4569-87c5-112026fdc2a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

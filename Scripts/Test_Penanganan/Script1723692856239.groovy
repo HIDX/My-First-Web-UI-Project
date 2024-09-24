@@ -29,47 +29,19 @@ WebUI.click(findTestObject('Object Repository/Penanganan/Page_Login Penaganan/bu
 
 WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/span_Daftar Tindak Lanjut'))
 
-WebUI.setText(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/input_Status BAP_xZWSe3'), '20240804030211')
+WebUI.setText(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/input_Status BAP_xZWSe3'), '202409040005')
 
 WebUI.waitForElementNotClickable(findTestObject('Penanganan/Case_Verification/a_Status Temu Gabung_oFGFaf'), 5)
 
 WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/a_Status BAP_rXoM_9'))
 
-WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/div_Pilih Status Kontak'))
+WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/div_Dokumen'))
 
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/li_Berhasil Kontak'))
+WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/span_Penanganan'))
 
-WebUI.waitForElementNotVisible(findTestObject('Penanganan/Daftar_Tindak_Lanjut/div_Pilih Status Detail Kontak'), 1)
+WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/label_Bukti Koordinasi PIC Penanganan ke Konsumen'))
 
-WebUI.waitForElementClickable(findTestObject('Penanganan/Daftar_Tindak_Lanjut/div_Pilih Status Detail Kontak'), 1)
-
-WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/div_Pilih Status Detail Kontak'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/li_Berhasil Bertemu'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/input_Waktu Pertemuan_g1oTk00-real'))
-
-WebUI.click(findTestObject('Penanganan/Daftar_Tindak_Lanjut/td_15'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/input_Media Pertemuan__pgdnht601'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/label_Kantor Cabang'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/button_Unggah'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Daftar_Tindak_Lanjut/button_Kirim'))
-
-WebUI.click(findTestObject('Penanganan/Case_Verification/button_Simpan'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/Case/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/acak/span_Dokumen'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/acak/span_Penanganan'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/acak/label_Bukti Koordinasi PIC Penanganan ke Konsumen'))
-
-WebUI.click(findTestObject('Object Repository/Penanganan/acak/button_Unggah_1'))
+WebUI.uploadFile(findTestObject('Penanganan/Daftar_Tindak_Lanjut/Input_file'), 'C:\\Users\\SALTLTP112\\Downloads\\dokumen\\KTP_dumy.png')
 
 WebUI.click(findTestObject('Object Repository/Penanganan/acak/button_Simpan_1'))
 

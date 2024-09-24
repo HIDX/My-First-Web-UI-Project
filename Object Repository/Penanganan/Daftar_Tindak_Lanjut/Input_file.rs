@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_file</name>
+   <tag></tag>
+   <elementGuidId>ab257822-807d-4bde-bce3-ece7796e62fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='file' and @type='file' and @style='height: 0px; width: 0px;'])[1]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'file' and @type = 'file' and @hidefocus = 'true' and @tabindex = '-1' and @style = 'height: 0px; width: 0px;']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>9a111dd7-e227-4628-be11-6bcc425b5da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>b8ea36ef-f801-4826-b49f-86597a750d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>hidefocus</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7ff7afb5-bfef-4c54-9d7b-82c8ee6aece9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3ff0698d-11aa-4ca9-ae0b-eb1179ecb30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>style</name>
+      <type>Main</type>
+      <value>height: 0px; width: 0px;</value>
+      <webElementGuid>9a2705cf-71b9-44af-a7e6-0c9aa6c475c9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

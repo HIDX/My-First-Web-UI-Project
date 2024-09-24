@@ -3,27 +3,31 @@
    <description></description>
    <name>button_Unggah</name>
    <tag></tag>
-   <elementGuidId>18a96be1-3464-4e49-abcf-46dfdd2e0583</elementGuidId>
+   <elementGuidId>8ca4d8b8-6461-495c-b1f1-a86dae57ca44</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='g1oT020']</value>
+         <value>//button[@type = 'button' and text() = 'Unggah' and @class = 'btn-primary col-md-6 btn-upload button-followup full-width mb-2 z-button']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and @id = 'gCdH020' and @class = 'btn-primary col-md-6 btn-upload button-followup full-width mb-2 z-button' and (text() = 'Unggah' or . = 'Unggah')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#g1oT020</value>
+         <value>#gCdH020</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5a3a2429-921c-4864-832a-fb76ff7e13d9</webElementGuid>
+      <webElementGuid>8c6b9430-8d80-4ea0-8094-c28668985d6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,23 +35,23 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3697cf40-7673-4eff-9f61-549caf8c2d99</webElementGuid>
+      <webElementGuid>5ed737b9-d71e-402f-8d61-dfdb7b6c8c89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>g1oT020</value>
-      <webElementGuid>1741b183-2dc2-40e3-b24b-8f2ec31c5295</webElementGuid>
+      <value>gCdH020</value>
+      <webElementGuid>f6872bbd-89ad-422b-ac9f-0dfdd294c2fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>btn-primary col-md-6 btn-upload button-followup full-width mb-2 z-button</value>
-      <webElementGuid>632f5387-84c0-494c-926e-a8e276e5b09a</webElementGuid>
+      <webElementGuid>742c5cd9-9ff0-402d-8041-d47086b0702d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +59,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Unggah</value>
-      <webElementGuid>d0a2018c-68ee-4e06-a72c-96e5b144665e</webElementGuid>
+      <webElementGuid>6c2a4a70-b41d-44ec-a253-33ac5f05ddca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;g1oT020&quot;)</value>
-      <webElementGuid>5cf0c9a1-baec-4fb0-bd8b-bb65e0b94ad5</webElementGuid>
+      <value>id(&quot;gCdH020&quot;)</value>
+      <webElementGuid>47f3ba40-095d-42ed-903a-1ddf035c61a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='g1oT020']</value>
-      <webElementGuid>934be6c3-b46a-45c1-8d5d-1c299cd6e8e2</webElementGuid>
+      <value>//button[@id='gCdH020']</value>
+      <webElementGuid>37061a7e-db98-4be2-ac2f-11207c716291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='g1oTq10']/button</value>
-      <webElementGuid>ad7ed038-d036-4089-8ef7-eecef738c763</webElementGuid>
+      <value>//div[@id='gCdHq10']/button</value>
+      <webElementGuid>215e8875-849f-4fd4-82a0-f5ce674464f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada dokumen'])[1]/following::button[2]</value>
-      <webElementGuid>81c1880e-4199-4d30-9288-33219ae1bfeb</webElementGuid>
+      <webElementGuid>b0945bf5-8d5d-4172-a2f2-16af3a155e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto Bukti Pertemuan*'])[1]/following::button[2]</value>
-      <webElementGuid>60e88fa8-58fd-4054-86c0-baf3f29a29c8</webElementGuid>
+      <webElementGuid>65162558-bde8-439d-b7ea-06499368f4af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kosongkan Isi Formulir'])[1]/preceding::button[1]</value>
-      <webElementGuid>17368a37-9951-4741-beda-7508d3c5737d</webElementGuid>
+      <webElementGuid>d4171b93-09e2-460e-8116-0075e9748a35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::button[2]</value>
-      <webElementGuid>346ac9d5-b67c-4a1b-ad1b-dc08f9dd402b</webElementGuid>
+      <webElementGuid>7ebf1b74-e73f-47eb-a742-c581bbbc5bc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unggah']/parent::*</value>
-      <webElementGuid>23ca773e-4d68-4672-a8bd-00ed6fd261a2</webElementGuid>
+      <webElementGuid>5a154813-5936-4dee-a589-908e28feb255</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,14 +131,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/button</value>
-      <webElementGuid>3ce55740-946c-4ff3-87f5-1dbb5e45d478</webElementGuid>
+      <webElementGuid>6fbda53a-5d2e-49aa-a873-14033b0ccdf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'g1oT020' and (text() = 'Unggah' or . = 'Unggah')]</value>
-      <webElementGuid>e6470f3b-7517-4c57-b3a3-e43145e36174</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'gCdH020' and (text() = 'Unggah' or . = 'Unggah')]</value>
+      <webElementGuid>80156655-c535-4d9f-a74e-2a08278d27eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

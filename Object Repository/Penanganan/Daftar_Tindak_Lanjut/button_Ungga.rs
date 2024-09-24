@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ungga</name>
+   <tag></tag>
+   <elementGuidId>61aaf334-ac91-43f3-902c-5b3d61d1455b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'o7yK_n' and @class = 'mr-4 btn-upload z-button']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @class = 'mr-4 btn-upload z-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#o2sRnm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>227e2913-ca9f-46ce-b9e5-1bb7bba18d68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>o7yK_n</value>
+      <webElementGuid>82f2e564-a1c3-48bc-9c1a-22d312c15dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-4 btn-upload z-button</value>
+      <webElementGuid>6a4fa54a-d9c7-4ed9-9586-23c2b6364aaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='o2sRnm']</value>
+      <webElementGuid>1343314e-bca5-457f-81c3-2351091c74d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='o2sRmm']/span</value>
+      <webElementGuid>68cee8f5-6d38-486e-a21f-96e643a9adca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[3]/following::span[2]</value>
+      <webElementGuid>3a11fd55-4d02-4e5d-9360-14844aaf2972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[5]/following::span[2]</value>
+      <webElementGuid>a10920af-1405-4429-a704-8a75c447e6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada dokumen'])[5]/preceding::span[1]</value>
+      <webElementGuid>b09b3f59-7dd1-42e9-8a0b-692d44e005ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/span/span</value>
+      <webElementGuid>52a5954a-ffc1-4993-9d2b-82b5202cb267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'o2sRnm' and (text() = 'Bukti Koordinasi PIC Penanganan ke Konsumen*' or . = 'Bukti Koordinasi PIC Penanganan ke Konsumen*')]</value>
+      <webElementGuid>fe653b17-9593-4b42-89dc-b0f7f4dbf633</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

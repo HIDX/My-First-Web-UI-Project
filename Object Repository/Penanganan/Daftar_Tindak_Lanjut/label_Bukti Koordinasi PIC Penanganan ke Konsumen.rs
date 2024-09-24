@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Bukti Koordinasi PIC Penanganan ke Konsumen</name>
+   <tag></tag>
+   <elementGuidId>a929ccde-e1cc-4341-9b23-6986ce17e1a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#e90Ynm-cnt</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'e90Ynm-cnt' and @class = 'z-radio-content' and (text() = 'Bukti Koordinasi PIC Penanganan ke Konsumen*' or . = 'Bukti Koordinasi PIC Penanganan ke Konsumen*')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[text() = 'Bukti Koordinasi PIC Penanganan ke Konsumen*'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>397db1d3-d013-40a7-91e8-a2b055a01773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>e90Ynm-real</value>
+      <webElementGuid>3bbb1925-5b22-4650-90ec-51cd11a6443a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>e90Ynm-cnt</value>
+      <webElementGuid>6ecbf632-efd1-41d4-bffa-b299d438b345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-radio-content</value>
+      <webElementGuid>d1306613-1028-414a-8f00-0b6ccba22be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bukti Koordinasi PIC Penanganan ke Konsumen*</value>
+      <webElementGuid>2ce5eb90-9072-4acd-8094-9404d43b2733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e90Ynm-cnt&quot;)</value>
+      <webElementGuid>c38b7e31-5670-4c17-9541-13f0d031e13c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='e90Ynm-cnt']</value>
+      <webElementGuid>22ba1d1e-95dd-448d-a975-2baff8be0ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='e90Ynm']/label</value>
+      <webElementGuid>5b0bca08-9a2f-4360-8cff-5bf42fa1332a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[3]/following::label[1]</value>
+      <webElementGuid>36a0066d-22a4-44fd-a3b5-1f18a133dd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[5]/following::label[1]</value>
+      <webElementGuid>be144f37-168e-4bac-8f1d-a9f65c70cef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada dokumen'])[5]/preceding::label[1]</value>
+      <webElementGuid>119112c2-3bff-48ad-834d-46e3c48ea3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah'])[5]/preceding::label[1]</value>
+      <webElementGuid>f6caa8e8-38b7-4760-b607-0a720f26f683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bukti Koordinasi PIC Penanganan ke Konsumen*']/parent::*</value>
+      <webElementGuid>49d6d928-5731-46d8-933b-9d4d042ddceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/span/span/label</value>
+      <webElementGuid>9731794e-6b93-4198-8189-66bece390c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'e90Ynm-cnt' and (text() = 'Bukti Koordinasi PIC Penanganan ke Konsumen*' or . = 'Bukti Koordinasi PIC Penanganan ke Konsumen*')]</value>
+      <webElementGuid>e46a8bca-96f6-4c6a-aa33-d145764be288</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

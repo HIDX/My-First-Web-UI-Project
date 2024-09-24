@@ -10,11 +10,19 @@
          <value>//button[@id='c2YBoc0']</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'c2YBoc0' and (text() = '
+                        Simpan
+                      ' or . = '
+                        Simpan
+                      ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#c2YBoc0</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9a874793-9776-46f0-858b-35c01b1f6765</webElementGuid>
+      <webElementGuid>5b541535-9d5b-4c77-a8ce-1e9a2511007e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0ae32cf1-9387-492e-a028-1d6b2ce58ab0</webElementGuid>
+      <webElementGuid>a5e629c6-6aa0-47f7-890b-901cd5d2d880</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>c2YBoc0</value>
-      <webElementGuid>36950b1c-768a-48ae-a858-0af361c55a10</webElementGuid>
+      <webElementGuid>50466bc2-c2a6-4ea8-9a92-56e4d16e1ac6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-auto btn btn-primary pull-right z-button</value>
-      <webElementGuid>1790ed12-8f9d-4b0c-a84d-d5da3335cd47</webElementGuid>
+      <webElementGuid>c4705ec5-d99d-461a-a263-f7f9f0384747</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +65,7 @@
       <value>
                         Simpan
                       </value>
-      <webElementGuid>caf8864c-9ed2-4cb3-babc-0875c7be34b2</webElementGuid>
+      <webElementGuid>e7a82d99-201f-4949-848e-bde314c01bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;c2YBoc0&quot;)</value>
-      <webElementGuid>b0997f70-f05f-492d-8654-3c435cbd494b</webElementGuid>
+      <webElementGuid>ff1eb97e-51c2-4f25-a702-c0dbc00c4062</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='c2YBoc0']</value>
-      <webElementGuid>106cd1d6-f3b5-4694-b85d-793a3fe144aa</webElementGuid>
+      <webElementGuid>fbf60434-743c-497c-a2e1-98f92be3cc1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='c2YBnc0']/button</value>
-      <webElementGuid>159e9f96-39b6-4b49-a617-31aed306cdc9</webElementGuid>
+      <webElementGuid>e1d6751f-c378-46f1-8c64-7270ca4534b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Pembaruan Terakhir'])[1]/following::button[1]</value>
-      <webElementGuid>bf8d7ad9-ad6a-427d-9553-d45a4f224766</webElementGuid>
+      <webElementGuid>2691cf92-9bef-430c-b5a5-3d10285b38f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama PIC'])[1]/following::button[1]</value>
-      <webElementGuid>3e1a52e0-b85c-46c6-8529-b83eae852e6a</webElementGuid>
+      <webElementGuid>3f9d9bca-816c-493c-9c93-d5b1add75008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
-      <webElementGuid>6d4266e6-2a68-4460-ade5-f01d8f4d9079</webElementGuid>
+      <webElementGuid>db52cec0-af1b-4285-b771-21cafbc3d35c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda yakin ingin mengirim BAP ke pelapor dengan data sebagai berikut ?'])[1]/preceding::button[2]</value>
-      <webElementGuid>801770c5-7859-416a-a541-e1ffd398480d</webElementGuid>
+      <webElementGuid>0bab5102-e45d-4651-ae93-d21da686f77f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/button</value>
-      <webElementGuid>c9add20c-dfbc-4d78-a1c5-76e490bf9683</webElementGuid>
+      <webElementGuid>a060e74d-0fa6-4b4b-92c6-8e150ab0e13e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +141,6 @@
                       ' or . = '
                         Simpan
                       ')]</value>
-      <webElementGuid>5500b6ff-b543-45d0-b083-1bc3cd7c4994</webElementGuid>
+      <webElementGuid>12f19a62-8139-4ecd-996b-40b15b2c5433</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

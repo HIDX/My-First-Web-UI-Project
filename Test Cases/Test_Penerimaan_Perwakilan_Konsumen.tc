@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Penerimaan_Perwakilan_Konsumen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d26526eb-41fc-4e56-b6b2-a1e61cd264e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d0598a9-cfc6-400f-b19f-965e2bee3802</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\LTLTP112\\\\Downloads\\\\okumen\\\\KTP_dumy.png'</defaultValue>
+      <description></description>
+      <id>7d0598a9-cfc6-400f-b19f-965e2bee3802</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

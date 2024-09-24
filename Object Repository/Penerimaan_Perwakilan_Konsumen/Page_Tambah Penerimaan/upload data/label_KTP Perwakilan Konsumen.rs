@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_KTP Perwakilan Konsumen</name>
+   <tag></tag>
+   <elementGuidId>069c06b8-bea3-4bac-af06-1954e3311f46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'p3iIks1-cnt' and (text() = 'KTP Perwakilan Konsumen*' or . = 'KTP Perwakilan Konsumen*')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#p3iIks1-cnt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[text() = 'KTP Perwakilan Konsumen*'])[1]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6d377742-a399-4477-a968-63a0c6a7f96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>p3iIks1-real</value>
+      <webElementGuid>f03f5c8a-3d7b-49ea-82d3-0ed9afc1b24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>p3iIks1-cnt</value>
+      <webElementGuid>b3d77300-e4ed-4b50-9983-37bddea40214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-radio-content</value>
+      <webElementGuid>013858d5-737e-4a38-81f0-dc859545f0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KTP Perwakilan Konsumen*</value>
+      <webElementGuid>a5fe4d1d-d89a-4c11-bb93-b6ca52070856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p3iIks1-cnt&quot;)</value>
+      <webElementGuid>67c58d1f-c49d-435e-a7b8-640220b9b994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='p3iIks1-cnt']</value>
+      <webElementGuid>790c5906-c72a-4e5f-ba34-09784bb6eba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='p3iIks1']/label</value>
+      <webElementGuid>e591548b-0f84-47a5-b43b-97af9eb07e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen Pengaduan'])[1]/following::label[1]</value>
+      <webElementGuid>2f0a3944-a3e1-4b40-b408-ececa5bed5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengerti'])[1]/following::label[1]</value>
+      <webElementGuid>2ff8ba4c-6c80-4dc6-a20b-a302a7e667df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTP Konsumen*'])[1]/preceding::label[1]</value>
+      <webElementGuid>a1b93d2f-c9e1-4ea0-9939-5eafab8a42ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukti Penagihan*'])[1]/preceding::label[2]</value>
+      <webElementGuid>619190c8-a17e-4c31-ac0c-fe3347c64571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KTP Perwakilan Konsumen*']/parent::*</value>
+      <webElementGuid>8bc06324-53bf-4c49-b625-3e564090de32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/span/span/label</value>
+      <webElementGuid>d55b6773-b62a-4920-8f4a-a208f32f5ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'p3iIks1-cnt' and (text() = 'KTP Perwakilan Konsumen*' or . = 'KTP Perwakilan Konsumen*')]</value>
+      <webElementGuid>631ab01e-2520-4754-9518-6a6e710bff23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Penerimaan_Konsumen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abae27ad-bc24-4db0-ae56-71bf2750f2e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f5b99b7-1176-4107-9307-9fbff172d208</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\LTLTP112\\\\Downloads\\\\okumen\\\\KTP_dumy.png'</defaultValue>
+      <description></description>
+      <id>0f5b99b7-1176-4107-9307-9fbff172d208</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

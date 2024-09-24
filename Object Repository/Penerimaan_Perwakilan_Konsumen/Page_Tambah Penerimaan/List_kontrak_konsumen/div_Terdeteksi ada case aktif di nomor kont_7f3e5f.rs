@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Terdeteksi ada case aktif di nomor kont_7f3e5f</name>
+   <tag></tag>
+   <elementGuidId>fd1369cd-b3fc-44d0-90f7-3ecf5d7e7343</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'd73L000' and @class = 'pull-right close-icon-modal-contract z-div']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#d73L000</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class = 'pull-right close-icon-modal-contract z-div']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3ce8ee2-48fc-4a53-91bb-a90dcf314cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>d73L000</value>
+      <webElementGuid>d6f49dd5-3a73-4f33-bfce-a060cabfb6cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right close-icon-modal-contract z-div</value>
+      <webElementGuid>6045d802-d032-435e-8226-df939872b494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d73L000&quot;)</value>
+      <webElementGuid>e6d31b32-5d1f-4690-ab13-e838dd2877e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='d73L000']</value>
+      <webElementGuid>edf7a660-1262-4594-ac5f-24a8ad2e1005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d73L_00']/div</value>
+      <webElementGuid>788ae855-77cc-403f-acfe-d05ba4dcbfb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div</value>
+      <webElementGuid>02a25d22-b193-4c31-a1da-83b945615072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'd73L000']</value>
+      <webElementGuid>b17d29ef-e92f-4fda-ad5f-4bd2eb5ff14b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

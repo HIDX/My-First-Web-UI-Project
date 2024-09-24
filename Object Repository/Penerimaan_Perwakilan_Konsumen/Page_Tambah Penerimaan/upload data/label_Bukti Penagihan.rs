@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Bukti Penagihan</name>
+   <tag></tag>
+   <elementGuidId>2287938a-4719-4a4e-aa74-7989c912d38c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'z-radio-content' and (text() = 'Bukti Penagihan*' or . = 'Bukti Penagihan*')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#xO8Zi31-cnt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[text()='Bukti Penagihan*'])[3]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f69700ca-be88-44ae-8d03-6d64ca9ef2db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>xO8Zi31-real</value>
+      <webElementGuid>0f688316-2025-4d7a-8144-044114ee0466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xO8Zi31-cnt</value>
+      <webElementGuid>e443c8af-297a-4da9-9106-ab9bf6332b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-radio-content</value>
+      <webElementGuid>695db499-c683-42bb-91f7-3c0bf1c6bf3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bukti Penagihan*</value>
+      <webElementGuid>59f74153-a3ec-4635-8214-662f33c09023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xO8Zi31-cnt&quot;)</value>
+      <webElementGuid>227ab6df-7bee-4e3e-b35b-b6d49db1a4bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='xO8Zi31-cnt']</value>
+      <webElementGuid>970c1605-b869-479e-9e77-0a96415a4b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xO8Zi31']/label</value>
+      <webElementGuid>ba4fdf9a-fa34-40fc-858f-317dcef04f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTP Konsumen*'])[2]/following::label[1]</value>
+      <webElementGuid>63805121-85cf-48b4-9f70-d815c8dc572f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi Dokumen'])[1]/following::label[2]</value>
+      <webElementGuid>d89e2c2a-ea3f-4cdc-b80d-305651be4187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukti Penagihan yang Diadukan (Jika Ada)'])[2]/preceding::label[2]</value>
+      <webElementGuid>5abfccb5-3a2f-4796-b9ce-09287d01e3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span/span[2]/label</value>
+      <webElementGuid>da5b446c-bca5-450e-8aeb-41254f295d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'xO8Zi31-cnt' and (text() = 'Bukti Penagihan*' or . = 'Bukti Penagihan*')]</value>
+      <webElementGuid>1549ab4f-9e3c-4538-8073-bb9706db2279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

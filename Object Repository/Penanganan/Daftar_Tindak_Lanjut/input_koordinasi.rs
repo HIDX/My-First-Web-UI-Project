@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_koordinasi</name>
+   <tag></tag>
+   <elementGuidId>fc88cc83-af81-4f86-9807-0cb282853487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'radio' and @name = 'selected_doc_type[80-78-2]' and @value = '80-78-2']&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'radio' and @id = 'eFBOnm-real' and @name = 'selected_doc_type[80-78-2]' and @value = '80-78-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>89828279-64e8-4f5a-a447-ce7bd4ffed00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eFBOnm-real</value>
+      <webElementGuid>aafa65fa-59fd-40a0-98c4-294770818e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selected_doc_type[80-78-2]</value>
+      <webElementGuid>6e932fa3-d888-4ca7-9823-01fe647ee7d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>80-78-2</value>
+      <webElementGuid>21359ce3-90f0-4a17-9a1d-9d1268d87381</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

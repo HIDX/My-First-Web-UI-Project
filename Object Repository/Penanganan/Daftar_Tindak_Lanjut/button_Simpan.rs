@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='g1oTj30']</value>
+         <value>//button[@type = 'button' and @class = 'btn-primary full-width z-button'and text() = 'Simpan']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'g1oTj30' and @class = 'btn-primary full-width z-button' and (text() = 'Simpan' or . = 'Simpan')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dead226f-fd4f-4248-a7ad-d9d7bc78ddae</webElementGuid>
+      <webElementGuid>b8c0e051-4ee2-4158-88c6-75b8931be754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7707576e-77b9-4365-a30b-6f260fbcacb3</webElementGuid>
+      <webElementGuid>b3475a5e-5745-4549-b5dd-0d1007eff8cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +43,15 @@
       <name>id</name>
       <type>Main</type>
       <value>g1oTj30</value>
-      <webElementGuid>0197709d-c780-4f63-bdbe-60edb36f00e1</webElementGuid>
+      <webElementGuid>c08ca53f-d6fd-43db-b3b8-f4f009c53892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>btn-primary full-width z-button</value>
-      <webElementGuid>8d582d52-2b98-46f6-9f78-acde0751330b</webElementGuid>
+      <webElementGuid>831dd4a7-54c1-4086-a04c-25c200236a89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +59,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>0328e240-63df-404b-94b1-1083b5616e8e</webElementGuid>
+      <webElementGuid>4b150d2e-6297-4b7a-98e7-5e4f1b810542</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;g1oT7&quot;)/div[@id=&quot;g1oTn20&quot;]/div[@id=&quot;g1oTf30&quot;]/div[@id=&quot;g1oTi30&quot;]/button[@id=&quot;g1oTj30&quot;]</value>
-      <webElementGuid>e5175b6c-b54f-4bed-9082-e0212f1b8ce6</webElementGuid>
+      <webElementGuid>76121238-5be6-4f00-ad0f-f1cf0cbffaf2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='g1oTj30']</value>
-      <webElementGuid>87258191-4375-410e-bf89-133fff5e8157</webElementGuid>
+      <webElementGuid>fe155649-5ed3-4b87-aedf-bd839532cf4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='g1oTi30']/button</value>
-      <webElementGuid>611491e4-a76d-481b-b98a-e25abd440e47</webElementGuid>
+      <webElementGuid>0f058480-7bc7-4a0a-93c1-3ebae9cd3e1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>5a60df32-517b-444d-95eb-31f8104d6ac0</webElementGuid>
+      <webElementGuid>ca9fbf6d-809d-4341-9874-cb390e11684c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Cabang'])[1]/following::button[2]</value>
-      <webElementGuid>d29070a2-2c71-430a-bdf3-f68ee0a92d99</webElementGuid>
+      <webElementGuid>6c551c46-2ae9-4750-ad62-3f6af545a23d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter &amp; Sort'])[1]/preceding::button[1]</value>
-      <webElementGuid>2158c690-3023-4b3a-9bea-00c706652a01</webElementGuid>
+      <webElementGuid>b230ceac-9a3c-4407-8535-832d9b0acc94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penanganan'])[1]/preceding::button[1]</value>
-      <webElementGuid>f48da769-b458-47bd-b0ba-f980b79f7834</webElementGuid>
+      <webElementGuid>178b45cf-8676-4907-ac22-e8eb6e1c67ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
-      <webElementGuid>49f9ffa2-c58e-4c21-8919-615e4f55ff46</webElementGuid>
+      <webElementGuid>2f174027-0ebb-4b10-bdf9-65006fef3d26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>66d2a011-47c5-49b6-9ac7-f6e977b46d37</webElementGuid>
+      <webElementGuid>5ba7f7df-4e64-4498-a2c6-2d41951fabc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +139,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'g1oTj30' and (text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>3f07fdc3-ea2d-460c-b812-138e78b878bf</webElementGuid>
+      <webElementGuid>472001d9-c973-4157-85b2-0727267fdb98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

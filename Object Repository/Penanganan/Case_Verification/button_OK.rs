@@ -6,19 +6,19 @@
    <elementGuidId>9acfcbc3-4830-494b-a4a1-dc25a7fe3eea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'OK' or . = 'OK')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'OK' or . = 'OK')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.swal-button.swal-button--confirm</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9ca70967-cd06-42e1-99d6-447e4af33eda</webElementGuid>
+      <webElementGuid>4c92db71-06f9-4d62-b1f9-2fd8309d5d10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal-button swal-button--confirm</value>
-      <webElementGuid>a7a047b9-aa4b-4b18-9766-e50570778230</webElementGuid>
+      <webElementGuid>e4aee291-0aff-4fa5-a499-77c36a89dec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>f126b190-1ce8-43db-aa50-286f6e2668ab</webElementGuid>
+      <webElementGuid>78b867ad-ade7-44bd-be56-805c0094636f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;webkit chrome breeze&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-footer&quot;]/div[@class=&quot;swal-button-container&quot;]/button[@class=&quot;swal-button swal-button--confirm&quot;]</value>
-      <webElementGuid>3342f3a9-283b-4595-be48-0998cfb5482c</webElementGuid>
+      <webElementGuid>4dbfd488-7af1-469d-8dc7-a541a3dacdc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil'])[1]/following::button[1]</value>
-      <webElementGuid>1c1f4d6c-ee0f-4ef5-a79c-cde41e2d3b25</webElementGuid>
+      <webElementGuid>e2efb36b-1201-4ea6-830e-c1a5f2998349</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
-      <webElementGuid>e4a93d29-4316-48c9-aeba-477778119fba</webElementGuid>
+      <webElementGuid>67e1edca-b76d-404a-9fbd-f60c641a0c08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[4]/div/button</value>
-      <webElementGuid>83f76234-cb0a-4529-ac81-2fc4dd3913cd</webElementGuid>
+      <webElementGuid>95de19b8-1447-4d06-bd78-d7b93ef7e658</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,6 +83,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>185cf980-881e-4abe-8a23-c7278f4eb29f</webElementGuid>
+      <webElementGuid>dc4a550d-40be-4b1a-8649-cf8d459f4761</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

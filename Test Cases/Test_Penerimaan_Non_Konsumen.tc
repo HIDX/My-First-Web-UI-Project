@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Penerimaan_Non_Konsumen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d01a2f5a-ef52-4121-9f5e-fe4f5f0f3409</testCaseGuid>
+</TestCaseEntity>

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type = 'radio' ]</value>
+         <value>//input[@type = 'radio' and @value = 'Offline']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'radio' and @id = 'g1oTtn0-real' and @name = '_pgdnht601']</value>
+         <value>//*[@type = 'radio' and @id = 'g1oTtn0-real' and @name = '_pgdnht601' and @value = 'Offline']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -27,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>625d59cf-d211-4d2e-af56-8ed88d53e8f9</webElementGuid>
+      <webElementGuid>cf7cf05f-2d62-4070-81d2-43ce887504c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>dddb528b-fd94-4d99-a527-a35c8f8424ec</webElementGuid>
+      <webElementGuid>fe012fef-dbdc-4ba4-a6db-c2c862e8ae56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
       <name>id</name>
       <type>Main</type>
       <value>g1oTtn0-real</value>
-      <webElementGuid>e35a2992-bc0f-4167-ae3a-2180bbc36549</webElementGuid>
+      <webElementGuid>6e9afd41-e862-4d85-9dd9-fd836100a7f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,15 +51,15 @@
       <name>name</name>
       <type>Main</type>
       <value>_pgdnht601</value>
-      <webElementGuid>b39d4a3e-5697-4ed0-973f-8c0987f963d5</webElementGuid>
+      <webElementGuid>bd06d921-d248-49d0-8408-09eb5ddbf2cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
       <value>Offline</value>
-      <webElementGuid>b62d9e5c-d53f-428e-b7b6-3201a5056a05</webElementGuid>
+      <webElementGuid>787204ec-acb6-4d96-af62-a01b3f05d56d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;g1oTtn0-real&quot;)</value>
-      <webElementGuid>454464f5-2981-4a31-9152-7aafa587d70e</webElementGuid>
+      <webElementGuid>d7fae90f-e229-4ecb-ba53-988a28879fa6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='g1oTtn0-real']</value>
-      <webElementGuid>6f38599d-200e-4347-98ba-e965bf5fb65f</webElementGuid>
+      <webElementGuid>395c3593-f777-4f19-a666-0942b6b0bab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='g1oTtn0']/input</value>
-      <webElementGuid>ce1483d3-c81f-4409-8043-d378c8e9cc96</webElementGuid>
+      <webElementGuid>8f28a7e7-4dae-4671-a384-8cddcb4ed628</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/input</value>
-      <webElementGuid>9dfa82b0-17f1-425c-b015-e20b39618665</webElementGuid>
+      <webElementGuid>2fdd31a1-f8d5-48cb-aa89-de33df278103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'g1oTtn0-real' and @name = '_pgdnht601']</value>
-      <webElementGuid>ee918fc2-81c4-458f-9767-0f0774fcb054</webElementGuid>
+      <webElementGuid>5e0d500a-ee5b-453e-a874-395dcd7b38e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
